@@ -6,7 +6,7 @@ To start a new project with Foundry, use [`forge init`](../reference/forge/forge
 {{#include ../output/hello_foundry/forge-init:command}}
 ```
 
-This creates a new directory `hello_foundry` from the default template. This also initializes a new `git` repository.
+This creates a new folder `hello_foundry` in the current directory from the default template. This also initializes a new `git` repository.
 
 If you want to create a new project using a different template, you would pass the `--template` flag, like so:
 
